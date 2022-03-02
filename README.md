@@ -1,4 +1,4 @@
 # rabbitmq-example
 
-# what does RabbitMQ rest client does?
+# What does RabbitMQ rest client does?
 
